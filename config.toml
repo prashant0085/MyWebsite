@@ -1,4 +1,4 @@
-baseURL = "https://www.prashanttiwari.dev/"
+baseURL = "https://www.prashanttiwari.dev/9"
 languageCode = "en-us"
 theme = "aafu"
 
@@ -118,22 +118,26 @@ theme = "aafu"
         title = "Education"
         icon = "fas fa-graduation-cap"
 
+        #[[params.education.list]]
+        #    degree = "Ph.D. in Subject"
+        #    college = "University of State-City"
+        #    dates = "2013 - 2018"
+        #    thesis_title = "Effect of humans on other humans: a study of human behavior."
+        #    thesis_link = "#"
+        #[[params.education.list]]
+        #    degree = "M.S. in Subject"
+        #    college = "University of State-City"
+        #    dates = "2013 - 2018"
+        #    thesis_title = "Effect of humans on other humans: a study of human behavior."
+        #    thesis_link = "#"
         [[params.education.list]]
-            degree = "Ph.D. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
+            degree = "PG Diploma in Advanced Computing"
+            college = "Centre for Development of Advanced Computing, Pune"
+            dates = "2014 - 2015"
         [[params.education.list]]
-            degree = "M.S. in Subject"
-            college = "University of State-City"
-            dates = "2013 - 2018"
-            thesis_title = "Effect of humans on other humans: a study of human behavior."
-            thesis_link = "#"
-        [[params.education.list]]
-            degree = "B.S. in Subject"
-            college = "University of State-City"
-            dates = "2004 - 2009"
+            degree = "BE in Electronics"
+            college = "Mumbai University"
+            dates = "2009 - 2014"
 
     # Publication section
     [params.publication]
