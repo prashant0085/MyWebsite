@@ -87,7 +87,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "A fulltime remote DevOps Engineer with 5+ years of professional experience in DevOps, Infrastructure and Agile methodologies (Scrum/Scrumban/Kanban)."
+        description = "A fulltime remote senior DevOps engineer with nearly 6 years' experience working with Pipelines, CI/CD, Cloud, Containers and Agile methodologies (Scrum/Scrumban/Kanban) | 3x AWS certified."
 
     # Experience section
     [params.experience]
@@ -201,14 +201,14 @@ theme = "aafu"
         icon = "fas fa-cogs"
 
         [[params.skill.list]]
-            skill = "Skill 1, Skill 2"
+            skill = "Terraform, AWS, Ansible, Python, Bash, Jenkins, Gitlab-ci, GitHub Actions"
             skillrating = 90
         [[params.skill.list]]
-            skill = "Skill 3"
+            skill = "Docker, Concourse, Prometheus, Grafana, Serverless"
             skillrating = 80
         [[params.skill.list]]
-            skill = "Skill 4"
-            skillrating = 50
+            skill = "Golang, Groovy, Kubernetes, Jira-server, Confluence-server, Jfrog Artifactory"
+            skillrating = 70
 
     # Hobby section
     [params.hobby]
