@@ -28,7 +28,7 @@ theme = "aafu"
     # Profile section
     [params.profile]
         name = "Prashant Tiwari,"
-		tagline = "DevOps and Cloud Engineer,"
+		tagline = "Senior DevOps Engineer,"
 		location = "Remote"
         photo = "my_profile.jpg"
 
@@ -95,8 +95,13 @@ theme = "aafu"
         icon = "fas fa-briefcase"
 
         [[params.experience.list]]
+            position = "Senior DevOps Engineer"
+            dates = "2020 - *Present*"
+            link = "http://www.flux7.com/"
+            company = "Flux7 Labs Inc."
+            details = "* Deploying Microservices with AWS Fargate with complete infrastructure automation using Terraform.\n * Deploying fast and secure CIS compliant AWS platforms for enterprises allowing them to start within 10 days.\n * Setting up ETL data engineering automation with AWS Glue, S3, Redshift, and Cloudwatch.\n * Deploying automated serverless nightly builds with AWS Lambda. Setting up monitoring, alarm and logging system for multi-account AWS environments."
             position = "DevOps Engineer"
-            dates = "2019 - *Present*"
+            dates = "2019 - 2020"
             link = "http://www.flux7.com/"
             company = "Flux7 Labs Inc."
             details = "* Deploying Microservices with AWS Fargate with complete infrastructure automation using Terraform.\n * Deploying fast and secure CIS compliant AWS platforms for enterprises allowing them to start within 10 days.\n * Setting up ETL data engineering automation with AWS Glue, S3, Redshift, and Cloudwatch.\n * Deploying automated serverless nightly builds with AWS Lambda. Setting up monitoring, alarm and logging system for multi-account AWS environments."
