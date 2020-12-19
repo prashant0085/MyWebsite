@@ -96,25 +96,25 @@ theme = "aafu"
 
         [[params.experience.list]]
             position = "Senior DevOps Engineer"
-            dates = "2020 - *Present*"
+            dates = "Sep 2020 - **Present**"
             link = "http://www.flux7.com/"
             company = "Flux7 Labs Inc."
             details = "* Deploying Microservices with AWS Fargate with complete infrastructure automation using Terraform.\n * Deploying fast and secure CIS compliant AWS platforms for enterprises allowing them to start within 10 days.\n * Setting up ETL data engineering automation with AWS Glue, S3, Redshift, and Cloudwatch.\n * Deploying automated serverless nightly builds with AWS Lambda. Setting up monitoring, alarm and logging system for multi-account AWS environments."
         [[params.experience.list]]
             position = "DevOps Engineer"
-            dates = "2019 - 2020"
+            dates = "Mar 2019 - Aug 2020"
             link = "http://www.flux7.com/"
             company = "Flux7 Labs Inc."
             details = "* Deploying Microservices with AWS Fargate with complete infrastructure automation using Terraform.\n * Deploying fast and secure CIS compliant AWS platforms for enterprises allowing them to start within 10 days.\n * Setting up ETL data engineering automation with AWS Glue, S3, Redshift, and Cloudwatch.\n * Deploying automated serverless nightly builds with AWS Lambda. Setting up monitoring, alarm and logging system for multi-account AWS environments."
         [[params.experience.list]]
             position = "DevOps Engineer"
-            dates = "2017 - 2019"
+            dates = "Jan 2017 - Feb 2019"
             link = "https://expleogroup.com/"
             company = "Expleo Group"
             details = "* Building complete CI pipeline using Jenkins and GitHub. Using IaC (CloudFormation & Terraform) to build AWS infrastructure and provide software development and production platform.\n * Creating and maintaining Ansible playbooks with multiple roles.\n * Basic system administration and troubleshooting Red Hat based Linux systems.\n * Worked with build automation tools such as ANT in CI pipelines."
         [[params.experience.list]]
-            position = **"Test Engineer"**
-            dates = **"Mar 2015 - Dec 2016"**
+            position = "Test Engineer"
+            dates = "Mar 2015 - Dec 2016"
             link = "https://sqs.com/"
             company = "SQS India Infosystem Pvt Ltd"
             details = "* Monitoring health check of application and server by Performance testing tools and Nagios.\n * Creating and Maintaining Automation scripts used for performance testing.\n * Testing and raising defects for improvement in average response time and better throughput of servers."
