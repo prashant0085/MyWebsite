@@ -87,7 +87,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "A fulltime remote senior DevOps engineer with nearly 6 years' experience working with Pipelines, CI/CD, Cloud, Containers and Agile methodologies Scrum/Scrumban/Kanban | 3x AWS certified."
+        description = "A fulltime remote senior DevOps engineer with nearly 6 years' experience working with Pipelines, CI/CD, Cloud, Containers and Agile methodologies Scrum/Scrumban/Kanban. | 3x AWS certified."
 
     # Experience section
     [params.experience]
