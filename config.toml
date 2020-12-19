@@ -114,7 +114,7 @@ theme = "aafu"
             details = "* Building complete CI pipeline using Jenkins and GitHub. Using IaC (CloudFormation & Terraform) to build AWS infrastructure and provide software development and production platform.\n * Creating and maintaining Ansible playbooks with multiple roles.\n * Basic system administration and troubleshooting Red Hat based Linux systems.\n * Worked with build automation tools such as ANT in CI pipelines."
         [[params.experience.list]]
             position = "Test Engineer"
-            dates = "2015 - 2016"
+            dates = "Mar 2015 - Dec 2016"
             link = "https://sqs.com/"
             company = "SQS India Infosystem Pvt Ltd"
             details = "* Monitoring health check of application and server by Performance testing tools and Nagios.\n * Creating and Maintaining Automation scripts used for performance testing.\n * Testing and raising defects for improvement in average response time and better throughput of servers."
